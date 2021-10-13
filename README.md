@@ -1,4 +1,4 @@
-# Foobar
+# TwitchApiRest
 
 Servicio rest para consumir la API pública de Twitch
 
